@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Valley of the Wild.sln"
+    "dotnet.defaultSolution": "valley-of-the-wild.sln"
 }
